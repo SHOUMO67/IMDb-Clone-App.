@@ -1,5 +1,6 @@
 # IMDb-Clone-App.
  
+ 
  <!-- IMDB-clone app -->
 
 A IMDB clone app in which we can search movies based on OMDB API, with search suggestions. 
@@ -9,6 +10,11 @@ Clicking on the favourite button, we can add  movies to the favourite section to
 <!-- Usecases -->
 To build this IMDb clone app, I have used the following
 HTML , CSS , and JavaScript , BOOTSTRAP and OMDB API...
+
+
+CREATED BY : SHOUMODIP DAS..
+
+
 
 
 
